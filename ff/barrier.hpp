@@ -30,6 +30,7 @@
  */
 
 #include <stdlib.h>
+#include <atomic>
 #include <ff/platforms/platform.h>
 #include <ff/utils.hpp>
 #include <ff/config.hpp>
